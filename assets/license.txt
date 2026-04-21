@@ -1,0 +1,8 @@
+SyncFiles — Logiciel de synchronisation de fichiers
+Copyright © 2026 ESP Antsiranana
+Développé par Gracie Raseta — EII 5ème année
+
+Ce logiciel est développé dans le cadre d'un mini_projet
+à l'École Supérieure Polytechnique d'Antsiranana (ESP Antsiranana).
+
+Tous droits réservés.
